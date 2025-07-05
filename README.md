@@ -127,14 +127,24 @@ job-portal/
 
 ## 🖼️ Screenshots
 
-> 💡 *Add screenshots of the homepage, job listing page, login/signup forms, etc.*
 ![image](https://github.com/user-attachments/assets/167ac598-46c9-4377-8a20-0066d4b4138f)
 
 ```
 📷 /screenshots/homepage.png
-![image](https://github.com/user-attachments/assets/b1dd2fed-3d59-40b5-9b52-9d5ecbcfd7d5)
-📷 /screenshots/job-listings.png
+![image](https://github.com/user-attachments/assets/cf84d16a-5c9d-4ffb-9eca-a7a4708415fd)
+
+
+📷 /screenshots/Login.png
 ```
+![image](https://github.com/user-attachments/assets/00c76ac5-3c9c-421f-89d0-7c4e42b82aec)
+
+📷 /screenshots/register.png
+
+![image](https://github.com/user-attachments/assets/afc39ff8-9004-47b9-853f-fcca290a4700)
+📷 /screenshots/job-seeker.png
+
+![image](https://github.com/user-attachments/assets/f978efce-ab6e-4d41-a002-bc965a66bc09)
+📷 /screenshots/user profile.png
 
 ---
 
